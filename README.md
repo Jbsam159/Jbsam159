@@ -1,4 +1,4 @@
-## Olá, me chamo João Victor
+## Olá, me chamo João Victor. <br> Sou um amante da área da tecnologia e estou sempre aprendendo sobre novas tecnologias, meu sonho é poder virar um dev full stack javascript pois, sou fascinado por essa linguagem de programação e as possibilidades que podemos utilizar ela. Sempre disposto a conhecer e tornar um profissional cada vez melhor.😁☕👨‍💻
 
 <div align="center">
 
